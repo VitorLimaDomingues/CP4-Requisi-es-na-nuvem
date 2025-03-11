@@ -8,7 +8,7 @@ Este projeto tem como objetivo demonstrar a criação e configuração de uma m�
 
 ## Aviso
 
-Nosso projeto utiliza de recursos do repositório do professor Cabrini, neste link: https://github.com/fabiocabrini/fiware você pode acessar e baixar as depêndecias exigidas para este projeto. 
+Nosso projeto utiliza de recursos do repositório do professor Cabrini, neste link: https://github.com/fabiocabrini/fiware você pode acessar e baixar as dependências exigidas para este projeto. 
 
 ## 🛠 Passo a Passo
 
@@ -102,6 +102,7 @@ Para realizar o hands-on do projeto na bancada, você precisará dos seguintes i
 - Três cabos macho-fêmea
 - Você também vai ter que fazer a instalação do Arduino IDE em sua máquina, para compilar e exportar o código para o seu ESP32 Devkit1.
 
+---
 
 ### Iniciando a máquina virtual e deixando o FIWARE ativo na nuvem.
 
@@ -121,6 +122,7 @@ Para realizar o hands-on do projeto na bancada, você precisará dos seguintes i
 
 **AVISO:** O passo a passo abaixo só irá funcionar com a máquina virtual ativa junto com os containers do Fiware.
 
+---
 
 ### Postman
 
