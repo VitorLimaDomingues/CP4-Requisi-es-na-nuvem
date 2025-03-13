@@ -93,7 +93,7 @@ sudo apt install git -y
 
 ---
 
-### Depêndecias para fazer o Hands-On do projeto
+### Dependências para fazer o Hands-On do projeto
 
 Para realizar o hands-on do projeto na bancada, você precisará dos seguintes itens:
 
