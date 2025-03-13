@@ -130,7 +130,7 @@ Utilize o **Postman** para enviar requisições a VM e retornar no projeto.
 
 1. Acesse esse link: https://github.com/fabiocabrini/fiware/blob/main/FIWARE%20Descomplicado.postman_collection.json nele, faça o dowload do arquivo JSON, e exporte para o postman.
 
-2. Com o arquivo exportado, abra as pastas e coloque o IP público da sua máquina virtual no espaço escrito "{{url}}" (Faça isso do 1. até o 10).
+2. Com o arquivo exportado, abra as pastas e coloque o IP público da sua máquina virtual no espaço escrito "{{url}}" (Faça isso do 1. até o 10.).
 
 3. Com o IP público posto em todos, realize os dois Health Check do projeto clicando no botão "Send". Com os Health Check funcionando, prosseguimos com o passo a passo. 
 
@@ -138,7 +138,7 @@ Utilize o **Postman** para enviar requisições a VM e retornar no projeto.
 **nota** vai haver 6 colunas abaixo da url em cada arquivo, acesse a coluna "Body" e em seguida clique em "raw" para editar os códigos mostrados a baixo
 
 
-4. Agora acesse o "3. Provisioning a Smart Lamp" e registre um ID novo no "device_id" (exemplo:seuid001). Também troque o "entity_name" para o nome do seu ID (Exemplo: seu_id:001). Depois de fazer isso, clique no botão Send para continuar com o projeto.
+4. Agora acesse o "3. Provisioning a Smart Lamp" e registre um ID novo no "device_id" (exemplo: seuid001). Também troque o "entity_name" para o nome do seu ID (Exemplo: seu_id:001). Depois de fazer isso, clique no botão Send para continuar com o projeto.
 
 5. Acesse o "4. Registering Smart Lamp Commands" e mude o "lamp:001" para "seu_id:001", depois disso, clique em Send para concluir o registro do seu ID.
 
